@@ -14,7 +14,7 @@ for number in {1..30..2}
     echo $number
     done
 ```
-## Output expected 
+## Expected Output 
 
 ```git
 1
